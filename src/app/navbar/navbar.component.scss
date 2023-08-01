@@ -1,0 +1,27 @@
+mat-toolbar {
+  position: fixed;
+  z-index: 100;
+  margin-bottom: 8px;
+  padding: 0 30px;
+  .example-fill-remaining-space {
+    flex: 1 1 auto;
+  }
+
+  .logo-text{
+    font-size: 2rem;
+    font-weight: 500;
+    opacity: 0.7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 1rem 0;
+  }
+
+  .link {
+    cursor: pointer;
+    margin-right: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    mat-icon {
+      font-size: 20px;
+    }
+  }
+}

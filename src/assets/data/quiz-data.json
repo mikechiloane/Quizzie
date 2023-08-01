@@ -1,0 +1,1203 @@
+[
+    {
+        "quesID": 1,
+        "question": "What is the purpose of the 'ngOnInit' method in Angular?",
+        "imageName": "https://play-lh.googleusercontent.com/B_tydrYsRBojzG_H8NibVu5cZtZSjL_B_387DW2ZPfMG2MXu1D2MtkWRqqz8eBowuw",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to initialize data members and make API calls.",
+            "c) It is used to subscribe to Observables and handle asynchronous operations.",
+            "d) It is used to create a new component instance."
+        ],
+        "answer": "b) It is used to initialize data members and make API calls."
+    },
+    {
+        "quesID": 2,
+        "question": "What does the 'ngFor' directive do in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to create a new component instance.",
+            "b) It is used to handle HTTP requests.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "c) It is used to loop through an array and render elements dynamically."
+    },
+    {
+        "quesID": 3,
+        "question": "Which decorator is used to define a component in Angular?",
+        "imageName": "",
+        "options": [
+            "a) @Module",
+            "b) @Component",
+            "c) @Directive",
+            "d) @Injectable"
+        ],
+        "answer": "b) @Component"
+    },
+    {
+        "quesID": 4,
+        "question": "What is a template in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is a file that contains TypeScript code.",
+            "b) It is a file that defines the structure and layout of a component's view.",
+            "c) It is a service that handles HTTP requests.",
+            "d) It is a class that holds the component's data and business logic."
+        ],
+        "answer": "b) It is a file that defines the structure and layout of a component's view."
+    },
+    {
+        "quesID": 5,
+        "question": "What is the purpose of 'FormsModule' in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to initialize data members and make API calls.",
+            "c) It is used to subscribe to Observables and handle asynchronous operations.",
+            "d) It is used to work with forms and form data in Angular."
+        ],
+        "answer": "d) It is used to work with forms and form data in Angular."
+    },
+    {
+        "quesID": 6,
+        "question": "What is the purpose of 'HttpClientModule' in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to initialize data members and make API calls.",
+            "c) It is used to subscribe to Observables and handle asynchronous operations.",
+            "d) It is used to create a new component instance."
+        ],
+        "answer": "a) It is used to handle HTTP requests."
+    },
+    {
+        "quesID": 7,
+        "question": "In Angular, what is the purpose of 'ngIf' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to conditionally render elements based on a boolean expression.",
+            "b) It is used to handle HTTP requests.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "a) It is used to conditionally render elements based on a boolean expression."
+    },
+    {
+        "quesID": 8,
+        "question": "What is the purpose of 'ngSwitch' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on multiple cases.",
+            "c) It is used to subscribe to Observables and handle asynchronous operations.",
+            "d) It is used to loop through an array and render elements dynamically."
+        ],
+        "answer": "b) It is used to conditionally render elements based on multiple cases."
+    },
+    {
+        "quesID": 9,
+        "question": "In Angular, how do you bind a variable to an input element and update it in real-time?",
+        "imageName": "",
+        "options": [
+            "a) [value]",
+            "b) (bind)",
+            "c) (update)",
+            "d) [(ngModel)]"
+        ],
+        "answer": "d) [(ngModel)]"
+    },
+    {
+        "quesID": 10,
+        "question": "Which Angular CLI command is used to generate a new component?",
+        "imageName": "",
+        "options": [
+            "a) ng new",
+            "b) ng create",
+            "c) ng generate component",
+            "d) ng make component"
+        ],
+        "answer": "c) ng generate component"
+    },
+    {
+        "quesID": 11,
+        "question": "What is the purpose of 'ngClass' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally apply CSS classes based on a condition.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "c) It is used to conditionally apply CSS classes based on a condition."
+    },
+    {
+        "quesID": 12,
+        "question": "What is Angular Interpolation?",
+        "imageName": "",
+        "options": [
+            "a) It is a way to bind data from the component to the view using curly braces {{}}.",
+            "b) It is a service that handles HTTP requests.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is a method to handle asynchronous operations in Angular."
+        ],
+        "answer": "a) It is a way to bind data from the component to the view using curly braces {{}}."
+    },
+    {
+        "quesID": 13,
+        "question": "Which lifecycle hook is used to perform any action before a component is destroyed in Angular?",
+        "imageName": "",
+        "options": [
+            "a) ngOnInit",
+            "b) ngOnDestroy",
+            "c) ngDestroy",
+            "d) ngOnChange"
+        ],
+        "answer": "b) ngOnDestroy"
+    },
+    {
+        "quesID": 14,
+        "question": "In Angular, what is the purpose of 'ngStyle' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to loop through an array and render elements dynamically.",
+            "b) It is used to handle HTTP requests.",
+            "c) It is used to conditionally apply inline CSS styles based on a condition.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "c) It is used to conditionally apply inline CSS styles based on a condition."
+    },
+    {
+        "quesID": 15,
+        "question": "What is Angular Router used for?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to create a new component instance.",
+            "c) It is used to navigate between different views and pages.",
+            "d) It is used to loop through an array and render elements dynamically."
+        ],
+        "answer": "c) It is used to navigate between different views and pages."
+    },
+    {
+        "quesID": 16,
+        "question": "What is the purpose of 'ViewChild' decorator in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to inject a child component into a parent component.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "c) It is used to inject a child component into a parent component."
+    },
+    {
+        "quesID": 17,
+        "question": "In Angular, how do you create a two-way data binding?",
+        "imageName": "",
+        "options": [
+            "a) [value]",
+            "b) (bind)",
+            "c) (update)",
+            "d) [(ngModel)]"
+        ],
+        "answer": "d) [(ngModel)]"
+    },
+    {
+        "quesID": 18,
+        "question": "What is the purpose of 'ngSubmit' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally apply CSS classes based on a condition.",
+            "d) It is used to handle form submission."
+        ],
+        "answer": "d) It is used to handle form submission."
+    },
+    {
+        "quesID": 19,
+        "question": "What is Angular CLI?",
+        "imageName": "",
+        "options": [
+            "a) It is a service that handles HTTP requests.",
+            "b) It is a command-line interface tool used to develop, build, and test Angular applications.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is a way to bind data from the component to the view using curly braces {{}}."
+        ],
+        "answer": "b) It is a command-line interface tool used to develop, build, and test Angular applications."
+    },
+    {
+        "quesID": 20,
+        "question": "In Angular, what is the purpose of 'ngModel' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to loop through an array and render elements dynamically.",
+            "b) It is used to handle HTTP requests.",
+            "c) It is used to conditionally apply inline CSS styles based on a condition.",
+            "d) It is used for two-way data binding between form elements and component variables."
+        ],
+        "answer": "d) It is used for two-way data binding between form elements and component variables."
+    },
+    {
+        "quesID": 21,
+        "question": "What is the purpose of 'ngIf' else block in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally render elements based on a boolean expression.",
+            "d) It is used to render an alternate template if the 'ngIf' condition is false."
+        ],
+        "answer": "d) It is used to render an alternate template if the 'ngIf' condition is false."
+    },
+    {
+        "quesID": 22,
+        "question": "What is the purpose of 'ngClass' else block in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false.",
+            "d) It is used to conditionally apply CSS classes based on a condition."
+        ],
+        "answer": "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false."
+    },
+    {
+        "quesID": 23,
+        "question": "What is the purpose of the 'async' pipe in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to loop through an array and render elements dynamically.",
+            "b) It is used to handle HTTP requests.",
+            "c) It is used to subscribe to Observables and handle asynchronous operations.",
+            "d) It is used to conditionally render elements based on a boolean expression."
+        ],
+        "answer": "c) It is used to subscribe to Observables and handle asynchronous operations."
+    },
+    {
+        "quesID": 24,
+        "question": "In Angular, what is the purpose of 'ngTemplateOutlet' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on a boolean expression.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to insert a template dynamically into the view."
+        ],
+        "answer": "d) It is used to insert a template dynamically into the view."
+    },
+    {
+        "quesID": 25,
+        "question": "What is Angular Dependency Injection?",
+        "imageName": "",
+        "options": [
+            "a) It is a way to handle HTTP requests in Angular.",
+            "b) It is a mechanism to inject dependencies into a class or component.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is a method to handle asynchronous operations in Angular."
+        ],
+        "answer": "b) It is a mechanism to inject dependencies into a class or component."
+    },
+    {
+        "quesID": 26,
+        "question": "What is the purpose of the 'ngContent' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on a boolean expression.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to project content into a component's view from the parent component."
+        ],
+        "answer": "d) It is used to project content into a component's view from the parent component."
+    },
+    {
+        "quesID": 27,
+        "question": "What is the purpose of 'ngContainer' in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on a boolean expression.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to group multiple elements and apply structural directives to them."
+        ],
+        "answer": "d) It is used to group multiple elements and apply structural directives to them."
+    },
+    {
+        "quesID": 28,
+        "question": "What is the purpose of 'ng-content' in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on a boolean expression.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to project content into a component's view from the parent component."
+        ],
+        "answer": "d) It is used to project content into a component's view from the parent component."
+    },
+    {
+        "quesID": 29,
+        "question": "What is the purpose of 'ng-container' in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on a boolean expression.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to group multiple elements and apply structural directives to them."
+        ],
+        "answer": "d) It is used to group multiple elements and apply structural directives to them."
+    },
+    {
+        "quesID": 30,
+        "question": "What is the purpose of 'trackBy' in Angular's ngFor?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on a boolean expression.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to improve performance when rendering lists by providing a unique identifier for each item."
+        ],
+        "answer": "d) It is used to improve performance when rendering lists by providing a unique identifier for each item."
+    },
+    {
+        "quesID": 31,
+        "question": "What is the purpose of 'ngZone' in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on a boolean expression.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to handle change detection and perform tasks outside of Angular's Zone."
+        ],
+        "answer": "d) It is used to handle change detection and perform tasks outside of Angular's Zone."
+    },
+    {
+        "quesID": 32,
+        "question": "In Angular, what is the purpose of 'ngZone.run()'?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on a boolean expression.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to execute a function inside Angular's Zone."
+        ],
+        "answer": "d) It is used to execute a function inside Angular's Zone."
+    },
+    {
+        "quesID": 33,
+        "question": "What is the purpose of 'ChangeDetectionStrategy' in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on a boolean expression.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to control when and how change detection is triggered for a component."
+        ],
+        "answer": "d) It is used to control when and how change detection is triggered for a component."
+    },
+    {
+        "quesID": 34,
+        "question": "In Angular, how do you communicate between parent and child components?",
+        "imageName": "",
+        "options": [
+            "a) Using 'ng-content' and 'ng-container'",
+            "b) Using 'ngZone'",
+            "c) Using 'Input' and 'Output' properties",
+            "d) Using 'ngIf' and 'else' block"
+        ],
+        "answer": "c) Using 'Input' and 'Output' properties"
+    },
+    {
+        "quesID": 35,
+        "question": "What is the purpose of 'ngOnInit' method in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to initialize data members and make API calls.",
+            "c) It is used to subscribe to Observables and handle asynchronous operations.",
+            "d) It is used to create a new component instance."
+        ],
+        "answer": "b) It is used to initialize data members and make API calls."
+    },
+    {
+        "quesID": 36,
+        "question": "What is the purpose of 'ngOnChanges' method in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally apply CSS classes based on a condition.",
+            "d) It is used to perform actions when the input properties of a component change."
+        ],
+        "answer": "d) It is used to perform actions when the input properties of a component change."
+    },
+    {
+        "quesID": 37,
+        "question": "In Angular, what is the purpose of 'ngOnDestroy' method?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to unsubscribe from Observables and perform cleanup tasks before a component is destroyed.",
+            "d) It is used to perform actions when the input properties of a component change."
+        ],
+        "answer": "c) It is used to unsubscribe from Observables and perform cleanup tasks before a component is destroyed."
+    },
+    {
+        "quesID": 38,
+        "question": "What is Angular CLI command used to create a new Angular project?",
+        "imageName": "",
+        "options": [
+            "a) ng new",
+            "b) ng create",
+            "c) ng generate",
+            "d) ng make"
+        ],
+        "answer": "a) ng new"
+    },
+    {
+        "quesID": 39,
+        "question": "In Angular, what is the purpose of 'ngStyle' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on a boolean expression.",
+            "c) It is used to apply inline CSS styles based on a condition.",
+            "d) It is used to loop through an array and render elements dynamically."
+        ],
+        "answer": "c) It is used to apply inline CSS styles based on a condition."
+    },
+    {
+        "quesID": 40,
+        "question": "What is the purpose of 'ngClass' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on a boolean expression.",
+            "c) It is used to apply CSS classes based on a condition.",
+            "d) It is used to loop through an array and render elements dynamically."
+        ],
+        "answer": "c) It is used to apply CSS classes based on a condition."
+    },
+    {
+        "quesID": 41,
+        "question": "What is Angular Router used for?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to create a new component instance.",
+            "c) It is used to navigate between different views and pages.",
+            "d) It is used to loop through an array and render elements dynamically."
+        ],
+        "answer": "c) It is used to navigate between different views and pages."
+    },
+    {
+        "quesID": 42,
+        "question": "In Angular, what is the purpose of 'ngModel' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to loop through an array and render elements dynamically.",
+            "b) It is used to handle HTTP requests.",
+            "c) It is used to conditionally apply inline CSS styles based on a condition.",
+            "d) It is used for two-way data binding between form elements and component variables."
+        ],
+        "answer": "d) It is used for two-way data binding between form elements and component variables."
+    },
+    {
+        "quesID": 43,
+        "question": "What is the purpose of 'ngSubmit' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally apply CSS classes based on a condition.",
+            "d) It is used to handle form submission."
+        ],
+        "answer": "d) It is used to handle form submission."
+    },
+    {
+        "quesID": 44,
+        "question": "What is Angular CLI?",
+        "imageName": "",
+        "options": [
+            "a) It is a service that handles HTTP requests.",
+            "b) It is a command-line interface tool used to develop, build, and test Angular applications.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is a way to bind data from the component to the view using curly braces {{}}."
+        ],
+        "answer": "b) It is a command-line interface tool used to develop, build, and test Angular applications."
+    },
+    {
+        "quesID": 45,
+        "question": "In Angular, what is the purpose of 'ngIf' else block?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on a boolean expression.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to render an alternate template if the 'ngIf' condition is false."
+        ],
+        "answer": "d) It is used to render an alternate template if the 'ngIf' condition is false."
+    },
+    {
+        "quesID": 46,
+        "question": "What is the purpose of 'ngSwitch' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on multiple cases.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "b) It is used to conditionally render elements based on multiple cases."
+    },
+    {
+        "quesID": 47,
+        "question": "In Angular, how do you bind a variable to an input element and update it in real-time?",
+        "imageName": "",
+        "options": [
+            "a) [value]",
+            "b) (bind)",
+            "c) (update)",
+            "d) [(ngModel)]"
+        ],
+        "answer": "d) [(ngModel)]"
+    },
+    {
+        "quesID": 48,
+        "question": "Which Angular CLI command is used to generate a new component?",
+        "imageName": "",
+        "options": [
+            "a) ng new",
+            "b) ng create",
+            "c) ng generate component",
+            "d) ng make component"
+        ],
+        "answer": "c) ng generate component"
+    },
+    {
+        "quesID": 49,
+        "question": "What is the purpose of 'ngClass' else block in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false.",
+            "d) It is used to conditionally apply CSS classes based on a condition."
+        ],
+        "answer": "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false."
+    },
+    {
+        "quesID": 50,
+        "question": "What is Angular Interpolation?",
+        "imageName": "",
+        "options": [
+            "a) It is a way to bind data from the component to the view using curly braces {{}}.",
+            "b) It is a service that handles HTTP requests.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is a method to handle asynchronous operations in Angular."
+        ],
+        "answer": "a) It is a way to bind data from the component to the view using curly braces {{}}."
+    },
+    {
+        "quesID": 51,
+        "question": "Which lifecycle hook is used to perform any action before a component is destroyed in Angular?",
+        "imageName": "",
+        "options": [
+            "a) ngOnInit",
+            "b) ngOnDestroy",
+            "c) ngDestroy",
+            "d) ngOnChange"
+        ],
+        "answer": "b) ngOnDestroy"
+    },
+    {
+        "quesID": 52,
+        "question": "In Angular, what is the purpose of 'ngIf' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally render elements based on a boolean expression.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "c) It is used to conditionally render elements based on a boolean expression."
+    },
+    {
+        "quesID": 53,
+        "question": "What is the purpose of 'ngSwitch' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on multiple cases.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "b) It is used to conditionally render elements based on multiple cases."
+    },
+    {
+        "quesID": 54,
+        "question": "In Angular, how do you bind a variable to an input element and update it in real-time?",
+        "imageName": "",
+        "options": [
+            "a) [value]",
+            "b) (bind)",
+            "c) (update)",
+            "d) [(ngModel)]"
+        ],
+        "answer": "d) [(ngModel)]"
+    },
+    {
+        "quesID": 55,
+        "question": "Which Angular CLI command is used to generate a new component?",
+        "imageName": "",
+        "options": [
+            "a) ng new",
+            "b) ng create",
+            "c) ng generate component",
+            "d) ng make component"
+        ],
+        "answer": "c) ng generate component"
+    },
+    {
+        "quesID": 56,
+        "question": "What is the purpose of 'ngClass' else block in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false.",
+            "d) It is used to conditionally apply CSS classes based on a condition."
+        ],
+        "answer": "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false."
+    },
+    {
+        "quesID": 57,
+        "question": "What is Angular Interpolation?",
+        "imageName": "",
+        "options": [
+            "a) It is a way to bind data from the component to the view using curly braces {{}}.",
+            "b) It is a service that handles HTTP requests.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is a method to handle asynchronous operations in Angular."
+        ],
+        "answer": "a) It is a way to bind data from the component to the view using curly braces {{}}."
+    },
+    {
+        "quesID": 58,
+        "question": "Which lifecycle hook is used to perform any action before a component is destroyed in Angular?",
+        "imageName": "",
+        "options": [
+            "a) ngOnInit",
+            "b) ngOnDestroy",
+            "c) ngDestroy",
+            "d) ngOnChange"
+        ],
+        "answer": "b) ngOnDestroy"
+    },
+    {
+        "quesID": 59,
+        "question": "In Angular, what is the purpose of 'ngIf' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally render elements based on a boolean expression.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "c) It is used to conditionally render elements based on a boolean expression."
+    },
+    {
+        "quesID": 60,
+        "question": "What is the purpose of 'ngSwitch' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on multiple cases.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "b) It is used to conditionally render elements based on multiple cases."
+    },
+    {
+        "quesID": 61,
+        "question": "In Angular, how do you bind a variable to an input element and update it in real-time?",
+        "imageName": "",
+        "options": [
+            "a) [value]",
+            "b) (bind)",
+            "c) (update)",
+            "d) [(ngModel)]"
+        ],
+        "answer": "d) [(ngModel)]"
+    },
+    {
+        "quesID": 62,
+        "question": "Which Angular CLI command is used to generate a new component?",
+        "imageName": "",
+        "options": [
+            "a) ng new",
+            "b) ng create",
+            "c) ng generate component",
+            "d) ng make component"
+        ],
+        "answer": "c) ng generate component"
+    },
+    {
+        "quesID": 63,
+        "question": "What is the purpose of 'ngClass' else block in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false.",
+            "d) It is used to conditionally apply CSS classes based on a condition."
+        ],
+        "answer": "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false."
+    },
+    {
+        "quesID": 64,
+        "question": "What is Angular Interpolation?",
+        "imageName": "",
+        "options": [
+            "a) It is a way to bind data from the component to the view using curly braces {{}}.",
+            "b) It is a service that handles HTTP requests.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is a method to handle asynchronous operations in Angular."
+        ],
+        "answer": "a) It is a way to bind data from the component to the view using curly braces {{}}."
+    },
+    {
+        "quesID": 65,
+        "question": "Which lifecycle hook is used to perform any action before a component is destroyed in Angular?",
+        "imageName": "",
+        "options": [
+            "a) ngOnInit",
+            "b) ngOnDestroy",
+            "c) ngDestroy",
+            "d) ngOnChange"
+        ],
+        "answer": "b) ngOnDestroy"
+    },
+    {
+        "quesID": 66,
+        "question": "In Angular, what is the purpose of 'ngIf' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally render elements based on a boolean expression.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "c) It is used to conditionally render elements based on a boolean expression."
+    },
+    {
+        "quesID": 67,
+        "question": "What is the purpose of 'ngSwitch' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on multiple cases.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "b) It is used to conditionally render elements based on multiple cases."
+    },
+    {
+        "quesID": 68,
+        "question": "In Angular, how do you bind a variable to an input element and update it in real-time?",
+        "imageName": "",
+        "options": [
+            "a) [value]",
+            "b) (bind)",
+            "c) (update)",
+            "d) [(ngModel)]"
+        ],
+        "answer": "d) [(ngModel)]"
+    },
+    {
+        "quesID": 69,
+        "question": "Which Angular CLI command is used to generate a new component?",
+        "imageName": "",
+        "options": [
+            "a) ng new",
+            "b) ng create",
+            "c) ng generate component",
+            "d) ng make component"
+        ],
+        "answer": "c) ng generate component"
+    },
+    {
+        "quesID": 70,
+        "question": "What is the purpose of 'ngClass' else block in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false.",
+            "d) It is used to conditionally apply CSS classes based on a condition."
+        ],
+        "answer": "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false."
+    },
+    {
+        "quesID": 71,
+        "question": "What is Angular Interpolation?",
+        "imageName": "",
+        "options": [
+            "a) It is a way to bind data from the component to the view using curly braces {{}}.",
+            "b) It is a service that handles HTTP requests.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is a method to handle asynchronous operations in Angular."
+        ],
+        "answer": "a) It is a way to bind data from the component to the view using curly braces {{}}."
+    },
+    {
+        "quesID": 72,
+        "question": "Which lifecycle hook is used to perform any action before a component is destroyed in Angular?",
+        "imageName": "",
+        "options": [
+            "a) ngOnInit",
+            "b) ngOnDestroy",
+            "c) ngDestroy",
+            "d) ngOnChange"
+        ],
+        "answer": "b) ngOnDestroy"
+    },
+    {
+        "quesID": 73,
+        "question": "In Angular, what is the purpose of 'ngIf' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally render elements based on a boolean expression.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "c) It is used to conditionally render elements based on a boolean expression."
+    },
+    {
+        "quesID": 74,
+        "question": "What is the purpose of 'ngSwitch' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on multiple cases.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "b) It is used to conditionally render elements based on multiple cases."
+    },
+    {
+        "quesID": 75,
+        "question": "In Angular, how do you bind a variable to an input element and update it in real-time?",
+        "imageName": "",
+        "options": [
+            "a) [value]",
+            "b) (bind)",
+            "c) (update)",
+            "d) [(ngModel)]"
+        ],
+        "answer": "d) [(ngModel)]"
+    },
+    {
+        "quesID": 76,
+        "question": "Which Angular CLI command is used to generate a new component?",
+        "imageName": "",
+        "options": [
+            "a) ng new",
+            "b) ng create",
+            "c) ng generate component",
+            "d) ng make component"
+        ],
+        "answer": "c) ng generate component"
+    },
+    {
+        "quesID": 77,
+        "question": "What is the purpose of 'ngClass' else block in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false.",
+            "d) It is used to conditionally apply CSS classes based on a condition."
+        ],
+        "answer": "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false."
+    },
+    {
+        "quesID": 78,
+        "question": "What is Angular Interpolation?",
+        "imageName": "",
+        "options": [
+            "a) It is a way to bind data from the component to the view using curly braces {{}}.",
+            "b) It is a service that handles HTTP requests.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is a method to handle asynchronous operations in Angular."
+        ],
+        "answer": "a) It is a way to bind data from the component to the view using curly braces {{}}."
+    },
+    {
+        "quesID": 79,
+        "question": "Which lifecycle hook is used to perform any action before a component is destroyed in Angular?",
+        "imageName": "",
+        "options": [
+            "a) ngOnInit",
+            "b) ngOnDestroy",
+            "c) ngDestroy",
+            "d) ngOnChange"
+        ],
+        "answer": "b) ngOnDestroy"
+    },
+    {
+        "quesID": 80,
+        "question": "In Angular, what is the purpose of 'ngIf' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally render elements based on a boolean expression.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "c) It is used to conditionally render elements based on a boolean expression."
+    },
+    {
+        "quesID": 81,
+        "question": "What is the purpose of 'ngSwitch' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on multiple cases.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "b) It is used to conditionally render elements based on multiple cases."
+    },
+    {
+        "quesID": 82,
+        "question": "In Angular, how do you bind a variable to an input element and update it in real-time?",
+        "imageName": "",
+        "options": [
+            "a) [value]",
+            "b) (bind)",
+            "c) (update)",
+            "d) [(ngModel)]"
+        ],
+        "answer": "d) [(ngModel)]"
+    },
+    {
+        "quesID": 83,
+        "question": "Which Angular CLI command is used to generate a new component?",
+        "imageName": "",
+        "options": [
+            "a) ng new",
+            "b) ng create",
+            "c) ng generate component",
+            "d) ng make component"
+        ],
+        "answer": "c) ng generate component"
+    },
+    {
+        "quesID": 84,
+        "question": "What is the purpose of 'ngClass' else block in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false.",
+            "d) It is used to conditionally apply CSS classes based on a condition."
+        ],
+        "answer": "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false."
+    },
+    {
+        "quesID": 85,
+        "question": "What is Angular Interpolation?",
+        "imageName": "",
+        "options": [
+            "a) It is a way to bind data from the component to the view using curly braces {{}}.",
+            "b) It is a service that handles HTTP requests.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is a method to handle asynchronous operations in Angular."
+        ],
+        "answer": "a) It is a way to bind data from the component to the view using curly braces {{}}."
+    },
+    {
+        "quesID": 86,
+        "question": "Which lifecycle hook is used to perform any action before a component is destroyed in Angular?",
+        "imageName": "",
+        "options": [
+            "a) ngOnInit",
+            "b) ngOnDestroy",
+            "c) ngDestroy",
+            "d) ngOnChange"
+        ],
+        "answer": "b) ngOnDestroy"
+    },
+    {
+        "quesID": 87,
+        "question": "In Angular, what is the purpose of 'ngIf' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally render elements based on a boolean expression.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "c) It is used to conditionally render elements based on a boolean expression."
+    },
+    {
+        "quesID": 88,
+        "question": "What is the purpose of 'ngSwitch' directive in Angular?",
+        "imageName": "",
+       
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally render elements based on a boolean expression.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "c) It is used to conditionally render elements based on a boolean expression."
+    },
+    {
+        "quesID": 89,
+        "question": "What is the purpose of 'ngSwitch' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on multiple cases.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "b) It is used to conditionally render elements based on multiple cases."
+    },
+    {
+        "quesID": 90,
+        "question": "In Angular, how do you bind a variable to an input element and update it in real-time?",
+        "imageName": "",
+        "options": [
+            "a) [value]",
+            "b) (bind)",
+            "c) (update)",
+            "d) [(ngModel)]"
+        ],
+        "answer": "d) [(ngModel)]"
+    },
+    {
+        "quesID": 91,
+        "question": "Which Angular CLI command is used to generate a new component?",
+        "imageName": "",
+        "options": [
+            "a) ng new",
+            "b) ng create",
+            "c) ng generate component",
+            "d) ng make component"
+        ],
+        "answer": "c) ng generate component"
+    },
+    {
+        "quesID": 92,
+        "question": "What is the purpose of 'ngClass' else block in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false.",
+            "d) It is used to conditionally apply CSS classes based on a condition."
+        ],
+        "answer": "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false."
+    },
+    {
+        "quesID": 93,
+        "question": "What is Angular Interpolation?",
+        "imageName": "",
+        "options": [
+            "a) It is a way to bind data from the component to the view using curly braces {{}}.",
+            "b) It is a service that handles HTTP requests.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is a method to handle asynchronous operations in Angular."
+        ],
+        "answer": "a) It is a way to bind data from the component to the view using curly braces {{}}."
+    },
+    {
+        "quesID": 94,
+        "question": "Which lifecycle hook is used to perform any action before a component is destroyed in Angular?",
+        "imageName": "",
+        "options": [
+            "a) ngOnInit",
+            "b) ngOnDestroy",
+            "c) ngDestroy",
+            "d) ngOnChange"
+        ],
+        "answer": "b) ngOnDestroy"
+    },
+    {
+        "quesID": 95,
+        "question": "In Angular, what is the purpose of 'ngIf' directive?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to conditionally render elements based on a boolean expression.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "c) It is used to conditionally render elements based on a boolean expression."
+    },
+    {
+        "quesID": 96,
+        "question": "What is the purpose of 'ngSwitch' directive in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to conditionally render elements based on multiple cases.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is used to subscribe to Observables and handle asynchronous operations."
+        ],
+        "answer": "b) It is used to conditionally render elements based on multiple cases."
+    },
+    {
+        "quesID": 97,
+        "question": "In Angular, how do you bind a variable to an input element and update it in real-time?",
+        "imageName": "",
+        "options": [
+            "a) [value]",
+            "b) (bind)",
+            "c) (update)",
+            "d) [(ngModel)]"
+        ],
+        "answer": "d) [(ngModel)]"
+    },
+    {
+        "quesID": 98,
+        "question": "Which Angular CLI command is used to generate a new component?",
+        "imageName": "",
+        "options": [
+            "a) ng new",
+            "b) ng create",
+            "c) ng generate component",
+            "d) ng make component"
+        ],
+        "answer": "c) ng generate component"
+    },
+    {
+        "quesID": 99,
+        "question": "What is the purpose of 'ngClass' else block in Angular?",
+        "imageName": "",
+        "options": [
+            "a) It is used to handle HTTP requests.",
+            "b) It is used to loop through an array and render elements dynamically.",
+            "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false.",
+            "d) It is used to conditionally apply CSS classes based on a condition."
+        ],
+        "answer": "c) It is used to apply an alternate set of CSS classes if the 'ngClass' condition is false."
+    },
+    {
+        "quesID": 100,
+        "question": "What is Angular Interpolation?",
+        "imageName": "",
+        "options": [
+            "a) It is a way to bind data from the component to the view using curly braces {{}}.",
+            "b) It is a service that handles HTTP requests.",
+            "c) It is used to loop through an array and render elements dynamically.",
+            "d) It is a method to handle asynchronous operations in Angular."
+        ],
+        "answer": "a) It is a way to bind data from the component to the view using curly braces {{}}."
+    }
+]
